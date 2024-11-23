@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/b30b142a-f423-423f-9187-c148444ca8dc)
+
+![image](https://github.com/user-attachments/assets/2407fe8f-dccc-4525-ae0d-c18155935c5c)
+
 def sum(numeros):
     resultado = 0
     for numero in numeros:
